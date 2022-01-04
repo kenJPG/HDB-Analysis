@@ -1,0 +1,25 @@
+
+
+'cumulative_hdb.csv'
+ - https://data.gov.sg/dataset/cumulative-units-completed-since-1960
+
+
+'completion_status.csv'
+ - 'https://data.gov.sg/dataset/number-of-units-of-hdb-developments-by-status?resource_id=7152faf5-c6db-44f7-92ec-9b4874b24d6f'
+
+
+'planning_area_shape'
+ - 'https://data.gov.sg/dataset/planning-area-census2010'
+
+'resale_flat_prices_all.csv'
+ - Created using the Python Notebook found at /code/merge.ipynb
+ - Contains the merged data of all the resale_flat_prices files 2012-2021.
+
+'resale_flat_prices_2012_2014.csv'
+'resale_flat_prices_2015_2016.csv'
+'resale_flat_prices_2017_2021.csv'
+ - https://data.gov.sg/dataset/resale-flat-prices
+
+'hdb_percent_of_population.csv'
+ - 'https://data.gov.sg/dataset/estimated-resident-population-living-in-hdb-flats?resource_id=a7d9516f-b193-4f9b-8bbf-9c85a4c9b61b'
+
